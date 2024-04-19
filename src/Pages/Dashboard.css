@@ -1,0 +1,16 @@
+.header-contain{
+    width: 100%;
+    margin: auto;
+    border-bottom: 2px solid;
+    border-color: #a8adb1;
+}
+.header-cont{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1rem 0rem 1rem;
+}
+.main{
+    width: 95%;
+    margin: auto;
+}
